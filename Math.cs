@@ -49,7 +49,7 @@ namespace hewowold
          }
 
         }
-    
+       Console.ReadLine();
         
     }
     
