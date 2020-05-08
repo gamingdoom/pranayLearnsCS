@@ -28,9 +28,9 @@ namespace hewowold
        double mind = Double.MinValue;
        double maxd = Double.MaxValue;
        double urbad = 1.0/3.0;
-       Console.WriteLine(h);
+       Console.WriteLine($"this is she value of (11+56)/45 {h}");
        Console.WriteLine($"the min value is {mind} and the max value is {maxd}");
-       Console.WriteLine($"HaHa i can make my computer do math wrong see 1.0/3.0 = {urbad}");
+       Console.WriteLine($"HaHa i can make my computer do math wrong see 1.0/3.0 = {urbad}(well its not really wrong)");
        //decimal is even more precise than doubles
        decimal i = 1.0M;
        decimal j = 3.0M;
@@ -39,7 +39,7 @@ namespace hewowold
        double rad = 2.5;
        double pI= Pi;
        double area = (rad*rad)*pI;
-       Console.WriteLine(area);
+       Console.WriteLine($"this is the area of a 2.5 radius circle {area}");
        //here i decided to just mess around and make a loop that increments to 10 and stops
        int k = 0;
        while (k != 10){
@@ -49,7 +49,11 @@ namespace hewowold
          }
 
         }
+        Console.WriteLine("Press enter to see my experience with Branches and Loops");
+        Console.ReadKey();
+       branchesandloops.branchesandloops.Loop();
        Console.ReadLine();
+
         
     }
     
