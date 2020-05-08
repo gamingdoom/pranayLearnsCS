@@ -6,7 +6,7 @@ namespace hewowold
         public const double Pi = 3.141592653589793238462643383;
 
         //static void main is needed at the begining of stuff to make it work
-        static void Main(){
+       public static void Main(){
             //integers are just numbers
        int a = 11;
        int b = 34;

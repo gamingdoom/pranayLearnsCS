@@ -33,6 +33,9 @@ namespace branchesandloops{
                 }
             }
             Console.WriteLine($"the total of all numbers divisible by 3 between 1 and 20 is {total}");
+            Console.WriteLine("press enter to go to the calculator");
+            Console.ReadKey();
+            calculator.calculator.Calc();
          }
         }
     }
