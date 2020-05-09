@@ -1,0 +1,10 @@
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\bin\Debug\WindowsFormsApptestframework.exe.config
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\bin\Debug\WindowsFormsApptestframework.exe
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\bin\Debug\WindowsFormsApptestframework.pdb
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.csprojAssemblyReference.cache
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.Form1.resources
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.Properties.Resources.resources
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.csproj.GenerateResource.cache
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.csproj.CoreCompileInputs.cache
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.exe
+C:\Users\psang\source\repos\WindowsFormsApptestframework\WindowsFormsApptestframework\obj\Debug\WindowsFormsApptestframework.pdb
