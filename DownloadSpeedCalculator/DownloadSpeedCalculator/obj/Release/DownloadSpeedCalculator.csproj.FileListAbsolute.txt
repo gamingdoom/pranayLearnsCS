@@ -1,0 +1,10 @@
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\bin\Release\DownloadSpeedCalculator.exe.config
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\bin\Release\DownloadSpeedCalculator.exe
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\bin\Release\DownloadSpeedCalculator.pdb
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.Form1.resources
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.Properties.Resources.resources
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.csproj.GenerateResource.cache
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.exe
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.pdb
+C:\Users\psang\source\repos\DownloadSpeedCalculator\DownloadSpeedCalculator\obj\Release\DownloadSpeedCalculator.csprojAssemblyReference.cache
